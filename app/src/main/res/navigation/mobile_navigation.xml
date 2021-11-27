@@ -22,4 +22,10 @@
         android:name="com.example.room_ex.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_floating"
+        android:name="com.example.room_ex.ui.floating.FloatingFragment"
+        android:label="FloatingFragment"
+        tools:layout="@layout/fragment_floating"/>
 </navigation>
