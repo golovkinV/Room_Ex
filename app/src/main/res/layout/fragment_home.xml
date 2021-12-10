@@ -28,18 +28,24 @@
             android:id="@+id/add_something"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/bg_rounded"
+            android:textColor="@color/white"
             android:text="Add" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/delete_something"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/bg_angles_rounded"
+            android:textColor="@color/white"
             android:text="Delete" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/update_something"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/bg_rounded"
+            android:textColor="@color/white"
             android:text="Update" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 </androidx.constraintlayout.widget.ConstraintLayout>

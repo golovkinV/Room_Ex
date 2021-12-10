@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vladimir/AndroidStudioProjects/Room_Ex/app/src/main/res/drawable/bg_angles_rounded.xml" value="0.2703125" />
+        <entry key="..\:/Users/Vladimir/AndroidStudioProjects/Room_Ex/app/src/main/res/drawable/bg_rounded.xml" value="0.2703125" />
         <entry key="..\:/Users/Vladimir/AndroidStudioProjects/Room_Ex/app/src/main/res/layout/activity_main.xml" value="0.23822463768115942" />
         <entry key="..\:/Users/Vladimir/AndroidStudioProjects/Room_Ex/app/src/main/res/layout/fragment_floating.xml" value="0.264" />
         <entry key="..\:/Users/Vladimir/AndroidStudioProjects/Room_Ex/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
